@@ -17,7 +17,7 @@ https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #EXTINF:-1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/800px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL", GMA
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
-#EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="GENERAL", GMA
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="GENERAL", GTV
 https://ssh101-fl.bozztv.com/ssh101/phcxigncodetv/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsiaHD.sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="MOVIES",HBO (1080p) [Geo-blocked]
@@ -138,7 +138,7 @@ https://bit.ly/3WLqRDR
 https://tinyurl.com/WWENETW
 
 #EXTINF:-1 tvg-id="DREAMSTAR TV"  tvg-logo="https://i.ibb.co/sgx9z54/436701796-439431531975006-2317771723364067673-n-removebg-preview.png" group-title="GENERAL", DREAMSTAR TV
-https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
+http://45.89.149.42:8080/memfs/d46f93d7-f955-4122-8a31-ebe2a00fe31f.m3u8
 
 #EXTINF:-1 tvg-id="TeleRadyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="GENERAL, NEWS" , TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
