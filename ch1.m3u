@@ -109,7 +109,7 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="MOVIES",Cinema One (1080p)
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="MOVIES", CINEMO!
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="MOVIES", CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="GENERAL, MOVIES" , HBO Family
